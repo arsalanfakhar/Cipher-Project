@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CipherMania</string>
+
+    <string-array name="Cipherstype">
+        <item>Shift Cipher</item>
+        <item>Vigenere Cipher</item>
+        <item>Subsitution Cipher</item>
+        <item>Playfair Cipher</item>
+    </string-array>
+</resources>
